@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  Axel DEFO 
-- 👀 I’m interested in 
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning java, web design and more
 - 💞️ I’m looking to collaborate on everything possible
 - 📫 How to reach me 
